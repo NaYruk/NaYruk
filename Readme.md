@@ -1,4 +1,4 @@
-<h1>Milliot Marc, Étudiant à 42 l'école 42 Mulhouse, développeur en devenir !</h1>
+<h1>Milliot Marc, Étudiant à l'école 42 Mulhouse, développeur en devenir !</h1>
 <p>Développeur junior avec des compétences en C, C++, JavaScript et
          développement web (HTML, CSS, React). Passionné par l’apprentissage,
          l’expérimentation et la création de projets concrets.
