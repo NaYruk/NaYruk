@@ -1,10 +1,10 @@
-<h1>Je suis Milliot Marc, Étudiant à at 42 l'école 42 Mulhouse, développeur en devenir !</h1>
+<h1>Milliot Marc, Étudiant à 42 l'école 42 Mulhouse, développeur en devenir !</h1>
 <p>Développeur junior avec des compétences en C, C++, JavaScript et
          développement web (HTML, CSS, React). Passionné par l’apprentissage,
          l’expérimentation et la création de projets concrets.
          Ouvert à tout type de stage ou alternance dans le développement
          (web, logiciel, ...) dans le but d'apprendre de nouvelles choses et de me former à la collaboration en entreprise.</p>
-<h2>Languages and tools i use</h2>
+<h2>Languages et outils que j'utilise</h2>
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
@@ -19,5 +19,5 @@
 <h2>Mes réseaux :</h2>
 <p>
 <a target="_blank" href="https://www.linkedin.com/in/mmilliot/" style="display: inline-block;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a target="_blank" href="github.com/NaYruk" style="display: inline-block;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a target="_blank" href="https://github.com/NaYruk" style="display: inline-block;"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
