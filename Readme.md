@@ -1,10 +1,5 @@
 <h1>Milliot Marc, Étudiant à l'école 42 Mulhouse, développeur en devenir !</h1>
-<p>Développeur junior avec des compétences en C, C++, JavaScript et
-         développement web (HTML, CSS, React). Passionné par l’apprentissage,
-         l’expérimentation et la création de projets concrets.
-         Ouvert à tout type de stage ou alternance dans le développement
-         (web, logiciel, ...) dans le but d'apprendre de nouvelles choses et de me former à la collaboration en entreprise.</p>
-<h2>Languages et outils que j'utilise</h2>
+<p>Développeur junior avec des compétences en C, C++, JavaScript et développement web (HTML, CSS, React). Toujours en apprentissage et en expérimentation pour progresser techniquement. Cherche un stage ou une alternance pour approfondir mes compétences et découvrir la collaboration en environnement professionnel.</h2>
 <p>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
